@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExcelToJSON": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\PROJECT\\FILES\\Datatypes.xlsx~D:\\PROJECT\\FILES\\DatatypeMappings.json\""
+    }
+  }
+}
