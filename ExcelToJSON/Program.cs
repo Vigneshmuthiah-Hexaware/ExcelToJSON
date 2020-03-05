@@ -45,8 +45,8 @@ namespace ExcelToJSON
                             writer.WritePropertyName("Talend");
                             writer.WriteValue(reader.GetString(1));
 
-                            writer.WritePropertyName("Method");
-                            writer.WriteValue(reader.GetString(2));
+                            //writer.WritePropertyName("Method");
+                            //writer.WriteValue(reader.GetString(2));
                             //writer.WriteValue(str);
 
                             //writer.WritePropertyName("Episode");
